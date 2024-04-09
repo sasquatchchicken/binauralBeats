@@ -4,6 +4,7 @@ This repository contains a Python script for generating and simulating binaural 
 ## Background
 The Monroe Institute, has extensively researched the use of **binaural beats** to induce altered states of consciousness. Binaural beats involve playing slightly different frequencies in each ear to create a perceived third frequency inside the brain.
 
+***please see the files background.md and theGate.md--the script associated with those two files is theGate.py***
 ## Features
 **Binaural Beat Generation:** Create stereo binaural beat tones using specified frequencies.
 
