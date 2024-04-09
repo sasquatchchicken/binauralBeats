@@ -21,3 +21,5 @@ Delta waves are associated with deep sleep and profound states of relaxation. Th
 
 The Monroe Institute may use combinations of binaural beats, such as presenting one frequency (e.g., 200 Hz) to the left ear and a slightly different frequency (e.g., 204 Hz) to the right ear, creating a perceived frequency (e.g., 4 Hz) inside the brain.
 It's important to note that the Monroe Institute's approach to consciousness exploration emphasizes individual experiences and subjective responses to audio stimulation. The use of specific frequencies is part of a comprehensive methodology that also includes guided meditation, visualization techniques, and experiential learning.
+
+## Disclaimer: Be mindful and responsible when experimenting with altered states of consciousness or meditation techniques. Always prioritize personal well-being and safety.
