@@ -12,3 +12,4 @@ In the realm of popular culture and fiction, concepts like **binaural beats** or
 
 The script is designed to simulate a fictional scenario inspired by popular culture references, where the activation of the Flux Capacitor and temporal displacement are triggered by certain conditions, often represented with arbitrary logic or random chance in the context of a simulation. Not responsible, use at your own risk!
 
+## Disclaimer: Be mindful and responsible when experimenting with altered states of consciousness or meditation techniques. Always prioritize personal well-being and safety.
