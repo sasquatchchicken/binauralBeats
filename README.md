@@ -34,11 +34,13 @@ Follow the on-screen instructions to input the base frequency, binaural frequenc
 
 Additional Notes
 For more information on specific frequencies used by the Monroe Institute or advanced techniques in consciousness exploration, refer to their official materials.
-**Exercise caution and prioritize personal well-being when experimenting with altered states of consciousness or meditation techniques.**
+
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Disclaimer: Be mindful and responsible when experimenting with altered states of consciousness or meditation techniques. Always prioritize personal well-being and safety.
 
 **Explore and enjoy the experience of binaural beats with this simulator.** Creator of this repository is not responsible for your experiments, your input values, and or any consciousness exploration and advanced techniques you embark. ***Proceed with caution and use at your own risk!***
