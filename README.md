@@ -17,7 +17,7 @@ Required libraries: numpy, sounddevice
 ## Installation
 **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/binaural-beat-simulator.git
+git clone https://github.com/sasquatchchicken/binaural-beat-simulator.git
 cd binaural-beat-simulator
 ```
 **Install dependencies:**
