@@ -15,12 +15,7 @@ The Monroe Institute, has extensively researched the use of **binaural beats** t
 ## Prerequisites
 Python 3.x
 Required libraries: numpy, sounddevice
-## Installation
-**Clone the repository:**
-```bash
-git clone https://github.com/sasquatchchicken/binaural-beat-simulator.git
-cd binaural-beat-simulator
-```
+
 **Install dependencies:**
 ```bash
 pip install numpy sounddevice
